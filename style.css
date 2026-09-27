@@ -2181,12 +2181,16 @@ body.light-mode .nav-links li a.active{
     font-size: larger;
     border-bottom:3px solid #3B82F6;
 }
+body.light-mode .hero-image img{
+        width:400px;
+        height:400px;
+    }
 /* Animated Ring */
 body.light-mode{
 .glow-ring{
     position: absolute;
-    width: 375px;
-    height: 375px;
+    width: 420px;
+    height: 420px;
     border-radius: 50%;
     background: conic-gradient(
         #38BDF8,
@@ -2268,13 +2272,13 @@ body.light-mode .glow-ring{
     }
 
     body.light-mode .hero-image img{
-    width:240px;
-    height:240px;
+    width:315px;
+    height:315px;
 }
 
 body.light-mode .glow-ring{
-    width:255px;
-    height:255px;
+    width:335px;
+    height:335px;
 }
  .contact-container{
 
@@ -2434,13 +2438,13 @@ body.light-mode .glow-ring{
 }
 
      body.light-mode .hero-image img{
-        width:340px;
-        height:350px;
+        width:420px;
+        height:420px;
     }
 
     body.light-mode .glow-ring{
-        width:360px;
-        height:350px;
+        width:440px;
+        height:440px;
     }
       .projects-container{
 
